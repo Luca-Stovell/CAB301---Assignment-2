@@ -1,0 +1,14 @@
+C:\Users\Hannah\Documents\2025 QUT Semester 1\CAB301 - Algorithems and Complexity\Assignment 2\StudentCode-1\StudentCode\bin\Debug\net8.0\StudentCode.exe
+C:\Users\Hannah\Documents\2025 QUT Semester 1\CAB301 - Algorithems and Complexity\Assignment 2\StudentCode-1\StudentCode\bin\Debug\net8.0\StudentCode.deps.json
+C:\Users\Hannah\Documents\2025 QUT Semester 1\CAB301 - Algorithems and Complexity\Assignment 2\StudentCode-1\StudentCode\bin\Debug\net8.0\StudentCode.runtimeconfig.json
+C:\Users\Hannah\Documents\2025 QUT Semester 1\CAB301 - Algorithems and Complexity\Assignment 2\StudentCode-1\StudentCode\bin\Debug\net8.0\StudentCode.dll
+C:\Users\Hannah\Documents\2025 QUT Semester 1\CAB301 - Algorithems and Complexity\Assignment 2\StudentCode-1\StudentCode\bin\Debug\net8.0\StudentCode.pdb
+C:\Users\Hannah\Documents\2025 QUT Semester 1\CAB301 - Algorithems and Complexity\Assignment 2\StudentCode-1\StudentCode\obj\Debug\net8.0\StudentCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hannah\Documents\2025 QUT Semester 1\CAB301 - Algorithems and Complexity\Assignment 2\StudentCode-1\StudentCode\obj\Debug\net8.0\StudentCode.AssemblyInfoInputs.cache
+C:\Users\Hannah\Documents\2025 QUT Semester 1\CAB301 - Algorithems and Complexity\Assignment 2\StudentCode-1\StudentCode\obj\Debug\net8.0\StudentCode.AssemblyInfo.cs
+C:\Users\Hannah\Documents\2025 QUT Semester 1\CAB301 - Algorithems and Complexity\Assignment 2\StudentCode-1\StudentCode\obj\Debug\net8.0\StudentCode.csproj.CoreCompileInputs.cache
+C:\Users\Hannah\Documents\2025 QUT Semester 1\CAB301 - Algorithems and Complexity\Assignment 2\StudentCode-1\StudentCode\obj\Debug\net8.0\StudentCode.dll
+C:\Users\Hannah\Documents\2025 QUT Semester 1\CAB301 - Algorithems and Complexity\Assignment 2\StudentCode-1\StudentCode\obj\Debug\net8.0\refint\StudentCode.dll
+C:\Users\Hannah\Documents\2025 QUT Semester 1\CAB301 - Algorithems and Complexity\Assignment 2\StudentCode-1\StudentCode\obj\Debug\net8.0\StudentCode.pdb
+C:\Users\Hannah\Documents\2025 QUT Semester 1\CAB301 - Algorithems and Complexity\Assignment 2\StudentCode-1\StudentCode\obj\Debug\net8.0\StudentCode.genruntimeconfig.cache
+C:\Users\Hannah\Documents\2025 QUT Semester 1\CAB301 - Algorithems and Complexity\Assignment 2\StudentCode-1\StudentCode\obj\Debug\net8.0\ref\StudentCode.dll
